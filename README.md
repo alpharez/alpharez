@@ -8,11 +8,11 @@
         | |                             
         |_|                       
 </pre>
-- 🔭 I’m currently working on ...  stuff to automate networks
-- 🌱 I’m currently learning ... programming, algorithms, frameworks  
+- 🔭 I’m currently working on ...  stuff to automate networks and learning Rust
+- 🌱 I’m currently learning ... programming, algorithms, frameworks, Haskell and Rust
 - 👯 I’m looking to collaborate on ...  network automation
-- 🤔 I’m looking for help with ... network automation
+- 🤔 I’m looking for help with ... network automation and blockchain dev
 - 💬 Ask me about ...  network automation
 - 📫 How to reach me: ...  steve.clement@alpharez.com
-- 😄 Pronouns: ...   network automation
-- ⚡ Fun fact: ...  network automation
+- 😄 Pronouns: ...   He/Him
+- ⚡ Fun fact: ...   seek and ye shall find
